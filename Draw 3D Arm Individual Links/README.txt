@@ -1,1 +1,1 @@
-Run "draw_3D_arm_individual_links.py" to generate matplotlib chart with the same data as the MATLAB example.
+Run "python3 draw_3D_arm_individual_links.py" to generate matplotlib chart with the same data as the MATLAB example.
